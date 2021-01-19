@@ -15,7 +15,7 @@
 
 
 ## MY GIT STATS
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rohitm17&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rohitm17&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitm17&hide=TeX&layout=compact)
 
 
