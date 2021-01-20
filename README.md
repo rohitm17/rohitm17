@@ -1,8 +1,14 @@
 ### Hi there 👋 I'm Rohit Mittal
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-rohitm17-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitm17/)](https://www.linkedin.com/in/rohitm17/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rohit_Mittal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitm17/)](https://www.linkedin.com/in/rohitm17/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitm17)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="3" />
+</p>
+
+<img align="right" alt="GIF" src="https://github.com/rohitm17/rohitm17/blob/main/coder.gif" width="500"/>
 
 
 
