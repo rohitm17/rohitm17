@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on JSP
+- 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Shell Scripting
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about Anything you want to discuss
