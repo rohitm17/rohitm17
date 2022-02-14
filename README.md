@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Shell Scripting
-- 👯 I’m looking to collaborate on Flutter
+- 🔭 I’m currently working on my Java Skills
+- 🌱 I’m currently learning Collection Framework in Java
+- 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: rohit.1705.mittal@gmail.com
 <!---  - 🤔 I’m looking for help with ...just --->
