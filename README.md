@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on my Java Skills
-- 🌱 I’m currently learning Collection Framework in Java
+- 🔭 I’m currently working on my Java FSD Skills
+- 🌱 I’m currently learning Angular Framework
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: rohit.1705.mittal@gmail.com
